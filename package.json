@@ -15,5 +15,3 @@
 }
 $ nvm install 4.3.2
 $ nvm use 4.3.2
-$ npm install
-$ npm start
