@@ -8,7 +8,9 @@
   },
   "author": "<my-name> <<my-email-address>>",
   "license": "UNLICENSED",
-  "dependencies": {
+  "dependencies": { 
+    $ npm install
+    $ npm start
     "initai-dev-server": "^0.4.8",
     "initai-node": "~0.0.7"
   }
